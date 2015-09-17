@@ -1,8 +1,18 @@
 .columns {
-  width:25%;
-  float:left;
+  width: 22%;
+  float: left;
+  padding: 5px;
 }
 
 .profile-pic {
   width: 75%;
+}
+
+.columns p {
+  color: blue;
+  font-weight: bold;
+}
+
+body {
+  font-family: sans-serif;
 }
